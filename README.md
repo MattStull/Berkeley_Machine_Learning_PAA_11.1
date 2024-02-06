@@ -2,7 +2,7 @@
 
 Jupyter Notebook Link
 
-https://github.com/MattStull/Berkeley_Machine_Learning_PAA_11.1
+https://github.com/MattStull/Berkeley_Machine_Learning_PAA_11.1/blob/main/prompt_II.ipynb
 
 Business Understanding
 
